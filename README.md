@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viraj
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on more Android Projects
+- 💞️ I’m looking to collaborate on Android Projects
 - 📫 Connect with me: www.linkedin.com/in/viraj-govilkar-458253234
 
 <!---
